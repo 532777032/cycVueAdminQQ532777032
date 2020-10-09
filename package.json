@@ -1,0 +1,63 @@
+{
+	"name": "cycVueAdminQQ532777032",
+	"version": "1.0.0",
+	"main": "cycVueAdminQQ532777032",
+	"dependencies": { 
+	    "axios": "^0.19.0",
+	    "core-js": "^2.6.5",
+	    "element-ui": "^2.4.5",
+	    "i": "^0.3.6",
+		"echarts": "^4.1.0",
+	    "jquery": "^3.3.1",
+	    "js-cookie": "^2.2.0",
+	    "nprogress": "^0.2.0",
+	    "querystring": "^0.2.0",
+	    "utils": "^0.3.1",
+	    "vue": "^2.6.10",
+	   
+	    "vue-router": "^3.0.3",
+	    "vue-ueditor-wrap": "^2.4.1",
+	    "vuex": "^3.0.1"
+	  },
+	  "devDependencies": { 
+	     "vue-awesome-swiper": "^3.1.3",
+	    "@vue/cli-plugin-babel": "^3.11.0",
+	    "@vue/cli-plugin-eslint": "^3.11.0",
+	    "@vue/cli-service": "^3.11.0",
+	    "babel-eslint": "^10.0.1",
+	    "babel-plugin-component": "^1.1.1",
+	    "css-loader": "^0.28.11",
+	    "eslint": "^5.16.0",
+	    "eslint-plugin-vue": "^5.0.0",
+	    "node-sass": "^4.9.0",
+	    "postcss-loader": "^2.1.5",
+	    "sass-loader": "^6.0.6",
+	    "sass-resources-loader": "^2.0.0",
+	    "style-loader": "^1.0.0",
+	    "vue-cli-plugin-element": "^1.0.1",
+	    "vue-template-compiler": "^2.6.10",
+	    "vue-ueditor-wrap": "^2.4.1"
+	  },
+	  "eslintConfig": {
+	      "root": true,
+	      "env": {
+	        "node": true
+	      },
+	      "extends": [
+	        "plugin:vue/essential"
+	      ],
+	      "rules": {},
+	      "parserOptions": {
+	        "parser": "babel-eslint"
+	      }
+	    },
+	    "postcss": {
+	      "plugins": {
+	        "autoprefixer": {}
+	      }
+	    },
+	    "browserslist": [
+	      "> 1%",
+	      "last 2 versions"
+	    ]
+}
